@@ -1,5 +1,7 @@
 # Achraf El Mouchtari
 
+![Achraf El Mouchtari](assets/profile.jpg)
+
 ### IT Student | Network & Security | Digital Infrastructure, Systems & Networks
 
 I am a second-year Specialized Technician student in Digital Infrastructure, Systems & Networks at OFPPT / ISTA.  
